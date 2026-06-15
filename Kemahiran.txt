@@ -3,3 +3,4 @@ Cisco packet tracer
 HTML
 Penyuntingan video
 Git dan Github
+Canva
